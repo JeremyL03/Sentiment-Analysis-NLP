@@ -62,7 +62,7 @@ We experimented with both **traditional ML models (SVM)** and **Transformer-base
 ---
 
 ## 📑 Documentation
-📄 Full analysis and results → [Project Report (PDF)](docs/Sentiment_Analysis_Reviewer.pdf)  
+📄 Full analysis and results → https://github.com/JeremyL03/Sentiment-Analysis-NLP/blob/main/Sentiment%20Analysis%20Reviewer.pdf 
 
 ---
 
