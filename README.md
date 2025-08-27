@@ -53,13 +53,20 @@ We experimented with both **traditional ML models (SVM)** and **Transformer-base
 ---
 
 ## 📥 How to Run
-```bash
-# Clone repository
-git clone https://github.com/JeremyL03/sentiment-analysis-nlp.git
-cd sentiment-analysis-nlp
+1. Open the notebook in **Google Colab**  
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)  
 
-# Install dependencies
-pip install -r requirements.txt
+2. Upload the dataset or connect to Kaggle via API  
+3. Run the notebook cells step by step to train & evaluate models  
 
-# Launch notebook
-jupyter notebook code/Sentiment_Analysis.ipynb
+---
+
+## 📑 Documentation
+📄 Full analysis and results → [Project Report (PDF)](docs/Sentiment_Analysis_Reviewer.pdf)  
+
+---
+
+## 👤 Author
+**Jeremy Lee Ming Heng**  
+📧 leejeremy456@gmail.com  
+🔗 [GitHub](https://github.com/JeremyL03)  
